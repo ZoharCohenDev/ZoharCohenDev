@@ -144,8 +144,9 @@ Tech:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" alt="Linux" /> Linux
 
 ### API & Integration
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="18" alt="Postman" />
   REST API, API Design, API Testing 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="18" alt="Postman" />
+  
 
 ### Tools & Workflow
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" alt="Git" /> Git,
