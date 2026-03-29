@@ -124,30 +124,30 @@ Tech:
 
 ## 🛠 Tech Stack
 
-- **Frontend:** 
+### Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" alt="React" /> React,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" /> TypeScript
 
-- **Backend:** 
+### Backend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18" alt="C#" /> C#,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="18" alt=".NET" /> .NET,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" alt="Node.js" /> Node.js,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" /> Python
 
-- **Data & Storage:** 
+### Data & Storage
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18" alt="SQL Server" /> SQL Server,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" alt="PostgreSQL" /> PostgreSQL,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" alt="MongoDB" /> MongoDB
 
-- **Cloud & Infrastructure:** 
+### Cloud & Infrastructure
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="18" alt="AWS" /> AWS,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" alt="Linux" /> Linux
 
-- **API & Integration:** 
+### API & Integration
   REST API, API Design, API Testing 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="18" alt="Postman" />
 
-- **Tools & Workflow:** 
+### Tools & Workflow
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" alt="Git" /> Git,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="18" alt="Azure DevOps" /> Azure DevOps
 
