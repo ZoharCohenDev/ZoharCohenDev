@@ -1,59 +1,93 @@
 # 👋 Hi, I'm Zohar Cohen
 
 Full-Stack Developer | M.Sc Computer Science Student  
-Focused on building scalable systems, AI-driven products, and clean architectures.
+Building scalable systems, AI driven products, and production-grade architectures.
+
+🔗 Portfolio: https://zoharportfolio.netlify.app
 
 ---
 
 ## 🚀 About Me
 
-I'm a full-stack developer with a strong foundation in computer science and a passion for building real-world systems end-to-end.
+I'm a full-stack developer with a strong foundation in computer science and hands-on experience building end to end systems in real production environments.
 
 Currently:
-- 🎓 M.Sc in Computer Science
-- 💻 Building AI-driven marketing platform (SaaS)
-- ⚙️ Working with .NET, React, SQL Server, and cloud architectures
+- 🎓 M.Sc in Computer Science  
+- 💼 Full Stack Developer at GIV Solutions  
+- 💻 Building AI-driven SaaS platforms and internal enterprise systems  
+
+At work, I continuously gain hands-on experience across the full development lifecycle - from system design to implementation - while rapidly improving my technical and architectural skills in real production environments.
 
 What I care about:
-- Clean, maintainable code (SOLID, DRY)
-- System design & architecture
-- Performance and scalability
-- Turning ideas into production-ready systems
+- Clean, maintainable code (SOLID, DRY)  
+- System design & architecture  
+- Performance, observability, and scalability  
+- Ownership - taking systems from idea → production  
 
 ---
 
 ## 🧠 Featured Projects
 
 ### 🚀 AI Marketing Platform (SaaS)
-End-to-end system that automates the entire marketing funnel:
-- AI landing page generation
-- AI creatives (images & videos)
-- Auto-publishing to Google / Meta / TikTok
-- Optimization loops (48–72h cycles)
+
+An end-to-end AI-powered platform that automates the entire marketing funnel for small and medium businesses.
+
+**Selected to be presented at a Shark Tank-style program as part of an investment evaluation process**, validating both the product vision and its business potential.
+
+Core capabilities:
+- AI-generated landing pages based on business inputs  
+- Automated creative generation (images, videos, ad copy)  
+- Multi-platform publishing (Google, Meta, TikTok)  
+- Continuous optimization cycles (48–72h loops based on performance data)  
+
+Architecture highlights:
+- Event-driven processing (queues, async workers)  
+- Data pipeline for campaign performance analysis  
+- Scalable infrastructure using cloud services and distributed components  
 
 Tech:
-`React` `Node.js` `PostgreSQL` `Redis` `AWS` `BullMQ` `Kafka`
+`React` `Node.js` `MongoDB` `Express`
+
 
 ---
 
 ### 🗂 SQL Server Audit → Git System
-System that tracks DDL/DML changes and syncs them into Git:
-- Database triggers for change detection
-- Background worker (.NET) for processing
-- Atomic file exports (JSON / SQL)
-- Auto commit & push per event
+
+A system that captures database changes (DDL & DML) and transforms them into version-controlled artifacts.
+
+What it does:
+- Uses database triggers to capture schema and data changes  
+- Stores structured audit logs (before/after states)  
+- Background worker processes events in batches  
+- Exports changes to filesystem (JSON / SQL)  
+- Automatically commits and pushes changes to Git  
+
+Why it matters:
+- Enables traceability of database changes  
+- Brings database evolution into standard development workflows  
+- Improves debugging, auditing, and rollback capabilities  
 
 Tech:
 `.NET` `SQL Server` `Git` `BackgroundService`
 
 ---
 
-### 🗺 ArcGIS Real-Time Train Simulation
-Interactive map system with real-time train movement:
-- FeatureLayers + GraphicsLayers
-- Route interpolation & animation
-- Custom side panel במקום popup
-- SVG-based train visualization
+### 🗺 ArcGIS Real Time Train Simulation
+
+Interactive geospatial system simulating real time train movement on rail networks.
+
+Key features:
+- Integration with ArcGIS FeatureLayers (stations & rail lines)  
+- Custom GraphicsLayer for real time train animation  
+- Route interpolation over complex polylines  
+- Smooth animation using distance based movement (not frame based)  
+- Custom UI side panel (replacing default popups)  
+- Dynamic highlighting of routes, stations, and active segments  
+
+Engineering challenges solved:
+- Mapping discrete GIS data into continuous motion  
+- Handling geometry calculations for curved paths  
+- Synchronizing UI state with animated entities  
 
 Tech:
 `JavaScript` `ArcGIS SDK` `Geometry` `Animation`
@@ -63,37 +97,38 @@ Tech:
 ## 🛠 Tech Stack
 
 **Frontend**
-- React, TypeScript
-- HTML, CSS, JS
+- React, TypeScript  
 
 **Backend**
-- C# / .NET
-- Node.js
+- C# / .NET  
+- Node.js  
+- Python  
 
 **Database**
-- SQL Server
-- PostgreSQL
+- SQL Server  
+- PostgreSQL  
 
 **Cloud & Tools**
-- AWS (S3, CloudFront)
-- Redis
-- Git / Azure DevOps
+- AWS (S3, CloudFront)  
+- Redis  
+- Git / Azure DevOps  
 
 ---
 
 ## 📈 What I'm Focused On
 
-- Advanced system design
-- AI-powered products
-- Algorithms & data structures
-- Building production-grade systems
+- Advanced system design  
+- AI powered products  
+- Algorithms & data structures  
+- Building scalable, production grade systems  
 
 ---
 
 ## 📫 Let's Connect
 
-- LinkedIn: [YOUR LINK HERE]
-- GitHub: https://github.com/ZoharCohenDev
+- LinkedIn: https://www.linkedin.com/in/zohar-cohen-b9832b271  
+- Portfolio: https://zoharportfolio.netlify.app/  
+- Email: matancz99@gmail.com  
 
 ---
 
