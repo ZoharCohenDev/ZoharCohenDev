@@ -48,6 +48,8 @@ Architecture highlights:
 Tech:
 `React` `Node.js` `MongoDB` `Express`
 
+Link:
+- 🔗 [AI Marketing Platform] https://github.com/RoniTwito08/Smarketing-final
 
 ---
 
@@ -69,6 +71,8 @@ Why it matters:
 
 Tech:
 `.NET` `SQL Server` `Git` `BackgroundService`
+
+🔒 Private repository (developed as part of my work at GIV Solutions)
 
 ---
 
@@ -92,6 +96,8 @@ Engineering challenges solved:
 Tech:
 `JavaScript` `ArcGIS SDK` `Geometry` `Animation`
 
+🔒 Private repository (developed as part of my work at GIV Solutions)
+
 ---
 
 ### 🧩 Code Visualizer
@@ -113,6 +119,9 @@ Why it matters:
 Tech:
 `TypeScript` `Parsing` `Graph Visualization`
 
+Link:
+- 🔗 [AI Marketing Platform] https://github.com/ZoharCohenDev/code-visualizer
+  
 ---
 
 ## 🛠 Tech Stack
