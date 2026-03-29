@@ -124,22 +124,23 @@ Tech:
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React, TypeScript  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-**Backend**
-- C# / .NET  
-- Node.js  
-- Python  
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 
-**Database**
-- SQL Server  
-- PostgreSQL  
+### Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-**Cloud & Tools**
-- AWS (S3, CloudFront)  
-- Redis  
-- Git / Azure DevOps  
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
