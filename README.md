@@ -94,6 +94,27 @@ Tech:
 
 ---
 
+### 🧩 Code Visualizer
+
+A tool that analyzes code structure and visualizes relationships between components.
+
+Originally inspired by my experience as a private tutor, where I helped students understand complex codebases — this tool was designed to make code more intuitive and visually accessible.
+
+What it does:
+- Parses code into structured representations  
+- Builds visual graphs of dependencies and flows  
+- Helps understand complex systems faster  
+
+Why it matters:
+- Improves code comprehension  
+- Useful for onboarding and debugging  
+- Bridges the gap between code and system design  
+
+Tech:
+`TypeScript` `Parsing` `Graph Visualization`
+
+---
+
 ## 🛠 Tech Stack
 
 **Frontend**
