@@ -141,7 +141,7 @@ Tech:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 ---
 
 ## 📈 What I'm Focused On
