@@ -48,8 +48,7 @@ Architecture highlights:
 Tech:
 `React` `Node.js` `MongoDB` `Express`
 
-Link:
-- 🔗 [AI Marketing Platform] https://github.com/RoniTwito08/Smarketing-final
+Link: - 🔗 [AI Marketing Platform] https://github.com/RoniTwito08/Smarketing-final
 
 ---
 
@@ -119,8 +118,7 @@ Why it matters:
 Tech:
 `TypeScript` `Parsing` `Graph Visualization`
 
-Link:
-- 🔗 [AI Marketing Platform] https://github.com/ZoharCohenDev/code-visualizer
+Link: - 🔗 [AI Marketing Platform] https://github.com/ZoharCohenDev/code-visualizer
   
 ---
 
