@@ -73,7 +73,7 @@ Tech:
 
 ---
 
-### 🚀 AI Marketing Platform (SaaS)
+### Smarekitng - 🚀 AI Marketing Platform (SaaS)
 
 An end-to-end AI-powered platform that automates the entire marketing funnel for small and medium businesses.
 
@@ -94,29 +94,6 @@ Tech:
 `React` `Node.js` `MongoDB` `Express`
 
 🔗 https://github.com/RoniTwito08/Smarketing-final
-
----
-
-### 🗂 SQL Server Audit → Git System
-
-A system that captures database changes (DDL & DML) and transforms them into version-controlled artifacts.
-
-What it does:
-- Uses database triggers to capture schema and data changes  
-- Stores structured audit logs (before/after states)  
-- Background worker processes events in batches  
-- Exports changes to filesystem (JSON / SQL)  
-- Automatically commits and pushes changes to Git  
-
-Why it matters:
-- Enables traceability of database changes  
-- Brings database evolution into standard development workflows  
-- Improves debugging, auditing, and rollback capabilities  
-
-Tech:
-`.NET` `SQL Server` `Git` `BackgroundService`
-
-🔒 Private repository (developed as part of my work at GIV Solutions)
 
 ---
 
