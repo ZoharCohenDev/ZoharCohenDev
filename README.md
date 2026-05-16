@@ -28,6 +28,51 @@ What I care about:
 
 ## 🧠 Featured Projects
 
+### 📱 Dohot — Field Reports & Quoting App
+
+A production mobile application built for tradespeople and field professionals, enabling automated generation of professional reports, quotes, and customer-ready documents on the go.
+
+**Deployed and actively used by real customers in day-to-day operations.**
+
+Core capabilities:
+- AI-powered document and report generation via OpenAI API  
+- Dynamic form workflows that produce structured, client-ready output  
+- PDF generation with digital signatures and branded formatting  
+- WhatsApp sharing workflows for instant customer delivery  
+- Secure authentication and cloud-based document delivery  
+
+Architecture highlights:
+- Mobile-first architecture with offline-resilient UX  
+- Backend API handling document orchestration, storage, and delivery  
+- Cloud document pipeline with signed URLs and access control  
+
+Tech:
+`React Native` `Expo/EAS` `TypeScript` `Node.js` `Supabase` `PostgreSQL` `OpenAI API`
+
+---
+
+### 🧠 MindForge — AI-Powered Knowledge System
+
+An AI-driven second-brain platform designed to ingest, process, and intelligently organize knowledge from documents and learning material.
+
+Built around the idea that information should be connected, not just stored.
+
+Core capabilities:
+- Ingests documents and extracts structured concepts automatically  
+- Builds semantic knowledge graphs linking related ideas across sources  
+- AI-powered search and retrieval surfacing relevant context on demand  
+- Continuous learning pipeline that improves organization over time  
+
+Architecture highlights:
+- AI orchestration layer handling extraction, embedding, and classification  
+- Scalable document processing pipeline with async workers  
+- Knowledge graph backend enabling relationship-aware queries  
+
+Tech:
+`Python` `Node.js` `OpenAI API` `PostgreSQL` `React`
+
+---
+
 ### 🚀 AI Marketing Platform (SaaS)
 
 An end-to-end AI-powered platform that automates the entire marketing funnel for small and medium businesses.
